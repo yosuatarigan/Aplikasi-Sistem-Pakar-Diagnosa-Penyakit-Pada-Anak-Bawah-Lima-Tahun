@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/css/main.faff20fd.chunk.css",
+    "main.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/main.264e8d63.chunk.js",
+    "main.js.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/main.264e8d63.chunk.js.map",
+    "runtime-main.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/runtime-main.6ad664a3.js",
+    "runtime-main.js.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/runtime-main.6ad664a3.js.map",
+    "static/css/2.036b41f9.chunk.css": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/css/2.036b41f9.chunk.css",
+    "static/js/2.3e47f6fc.chunk.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/2.3e47f6fc.chunk.js",
+    "static/js/2.3e47f6fc.chunk.js.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/2.3e47f6fc.chunk.js.map",
+    "index.html": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/index.html",
+    "precache-manifest.bf1c5eb74181bbc179087d17621be3bd.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/precache-manifest.bf1c5eb74181bbc179087d17621be3bd.js",
+    "service-worker.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.faff20fd.chunk.css.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/css/main.faff20fd.chunk.css.map",
+    "static/js/2.3e47f6fc.chunk.js.LICENSE.txt": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/2.3e47f6fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ad664a3.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.3e47f6fc.chunk.js",
+    "static/css/main.faff20fd.chunk.css",
+    "static/js/main.264e8d63.chunk.js"
+  ]
+}
