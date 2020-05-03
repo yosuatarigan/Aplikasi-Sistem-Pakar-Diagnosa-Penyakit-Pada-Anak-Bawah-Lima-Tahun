@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/precache-manifest.bf1c5eb74181bbc179087d17621be3bd.js"
+  "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/precache-manifest.68f6dc345df15f55ebb2db73dc96e1f3.js"
 );
 
 self.addEventListener('message', (event) => {
