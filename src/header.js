@@ -4,7 +4,7 @@ const Header = () => {
     return (
         <div>
             <nav className="pa3 pa4-ns">
-                <a className="link dim black b f2 tc db mb3 mb4-ns" href="#" title="Home">Aplikasi Sistem Pakar Diagnosa Penyakit Pada<br/> Anak Bawah Lima Tahun Menggunakan<br/> Metode Forward Chaining</a>
+                <a className="link dim black b f3 tc db mb3 mb4-ns" href="#" title="Home">Aplikasi Sistem Pakar Diagnosa Penyakit Pada<br/> Anak Bawah Lima Tahun Menggunakan<br/> Metode Forward Chaining</a>
                  
                 {/* <div className="tc pb3 f4 black b">
                    <p>oleh :</p>

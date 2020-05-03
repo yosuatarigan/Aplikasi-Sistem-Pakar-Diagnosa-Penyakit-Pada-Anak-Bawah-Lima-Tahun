@@ -348,9 +348,9 @@ class Gejala extends React.Component {
 
 
         return (
-            <div className="pa4">
+            <div className="pa2">
                 <div className="overflow-auto">
-                    <table className="f6 w-100 mw8 center" cellSpacing="0">
+                    <table className="f6 w-100  center" cellSpacing="0">
                         <thead>
                             <tr className="stripe-dark">
                                 <th className="fw6 tl pa3 bg-white">No</th>
