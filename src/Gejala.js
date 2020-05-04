@@ -651,7 +651,7 @@ class Gejala extends React.Component {
                             </tr>
                             <tr className="stripe-dark">
                                 <td className="pa3">3</td>
-                                <td className="pa3">{keluhan[0]}</td>
+                                <td className="pa3">{keluhan[2]}</td>
                                 <td className="pa3"><input onClick={() => onk('Iya', 3)} type="button" value='Ya' /> <input onClick={() => onk('Tidak', 3)} type="button" value='Tidak' /></td>
                                 <td className="pa3">{this.state.k3}</td>
 
