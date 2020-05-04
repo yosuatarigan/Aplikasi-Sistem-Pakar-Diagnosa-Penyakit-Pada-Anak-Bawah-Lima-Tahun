@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/css/main.faff20fd.chunk.css",
-    "main.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/main.91e19cbd.chunk.js",
-    "main.js.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/main.91e19cbd.chunk.js.map",
+    "main.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/main.23018922.chunk.js",
+    "main.js.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/main.23018922.chunk.js.map",
     "runtime-main.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/runtime-main.6ad664a3.js",
     "runtime-main.js.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/runtime-main.6ad664a3.js.map",
     "static/css/2.036b41f9.chunk.css": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/css/2.036b41f9.chunk.css",
     "static/js/2.3e47f6fc.chunk.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/2.3e47f6fc.chunk.js",
     "static/js/2.3e47f6fc.chunk.js.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/2.3e47f6fc.chunk.js.map",
     "index.html": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/index.html",
-    "precache-manifest.68f6dc345df15f55ebb2db73dc96e1f3.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/precache-manifest.68f6dc345df15f55ebb2db73dc96e1f3.js",
+    "precache-manifest.605fc4a8ead1fad2c918f0222d08c302.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/precache-manifest.605fc4a8ead1fad2c918f0222d08c302.js",
     "service-worker.js": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/service-worker.js",
     "static/css/2.036b41f9.chunk.css.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/css/2.036b41f9.chunk.css.map",
     "static/css/main.faff20fd.chunk.css.map": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/css/main.faff20fd.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.036b41f9.chunk.css",
     "static/js/2.3e47f6fc.chunk.js",
     "static/css/main.faff20fd.chunk.css",
-    "static/js/main.91e19cbd.chunk.js"
+    "static/js/main.23018922.chunk.js"
   ]
 }

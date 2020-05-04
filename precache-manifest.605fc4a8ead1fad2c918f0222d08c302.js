@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f83459d1ef0b1a856d89afac8d53cd7b",
+    "revision": "5fe2d2530a9db53888b5104e43204b71",
     "url": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/css/2.036b41f9.chunk.css"
   },
   {
-    "revision": "819c67c10a68e141b6ea",
+    "revision": "7cb22f93eff28ad2e2b2",
     "url": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/css/main.faff20fd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/2.3e47f6fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "819c67c10a68e141b6ea",
-    "url": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/main.91e19cbd.chunk.js"
+    "revision": "7cb22f93eff28ad2e2b2",
+    "url": "/Aplikasi-Sistem-Pakar-Diagnosa-Penyakit-Pada-Anak-Bawah-Lima-Tahun/static/js/main.23018922.chunk.js"
   },
   {
     "revision": "1d60d099bb0e57f32f6a",
